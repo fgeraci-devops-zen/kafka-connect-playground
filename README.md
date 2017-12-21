@@ -1,3 +1,3 @@
 # kafka-connect-playground
 `docker-compose up -d kafka-cluster`
-The UI will be available @ <ip-address>:3030
+The UI will be available @ ip-address:3030
